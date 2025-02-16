@@ -4,18 +4,20 @@
     "url": "https://atcoder-db.sirogami.com/",
     "icon": "https://icons.duckduckgo.com/ip3/atcoder-db.sirogami.com.ico",
     "slug": "at-coder-database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1085,
-    "timeDay": 1059,
-    "timeWeek": 1085,
-    "timeMonth": 1085,
-    "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "time": 1025,
+    "timeDay": 968,
+    "timeWeek": 1025,
+    "timeMonth": 1025,
+    "timeYear": 1025,
+    "dailyMinutesDown": {
+      "2025-02-16": 0
+    }
   },
   {
     "name": "User Algorithm Rating Retrieval",
