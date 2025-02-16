@@ -58,19 +58,19 @@
     "url": "https://atcoder.jp/users/sirogamichandayo/history/json",
     "icon": "https://icons.duckduckgo.com/ip3/atcoder.jp.ico",
     "slug": "user-algorithm-contest-history-retrieval",
-    "status": "up",
-    "uptime": "95.39%",
-    "uptimeDay": "95.39%",
-    "uptimeWeek": "95.39%",
-    "uptimeMonth": "95.39%",
-    "uptimeYear": "95.39%",
-    "time": 227,
-    "timeDay": 227,
-    "timeWeek": 227,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-02-16": 6
+      "2025-02-16": 0
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://atcoder.jp/users/sirogamichandayo/history/json?contestType=heuristic",
     "icon": "https://icons.duckduckgo.com/ip3/atcoder.jp.ico",
     "slug": "user-heuristic-contest-history-retrieval",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "95.41%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-02-16": 6
+      "2025-02-16": 0
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "https://atcoder.jp/api/contests/abc001",
     "icon": "https://icons.duckduckgo.com/ip3/atcoder.jp.ico",
     "slug": "contest-information-retrieval",
-    "status": "up",
-    "uptime": "95.42%",
-    "uptimeDay": "95.42%",
-    "uptimeWeek": "95.42%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "95.42%",
-    "time": 58,
-    "timeDay": 58,
-    "timeWeek": 58,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {
-      "2025-02-16": 6
+      "2025-02-16": 0
     }
   }
 ]
