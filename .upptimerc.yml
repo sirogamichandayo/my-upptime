@@ -10,16 +10,22 @@ sites:
     url: https://data.ac-predictor.com/ratings/heuristic.json
   - name: User Algorithm Contest History Retrieval
     url: https://atcoder.jp/users/sirogamichandayo/history/json
+    expectedStatusCodes: [403]
   - name: User Heuristic Contest History Retrieval
     url: https://atcoder.jp/users/sirogamichandayo/history/json?contestType=heuristic
+    expectedStatusCodes: [403]
   - name: Submission Data Retrieval
     url: https://kenkoooo.com/atcoder/atcoder-api/v3/from/9223372036854775807
+    expectedStatusCodes: [403]
   - name: Problem List Retrieval
     url: https://kenkoooo.com/atcoder/resources/problems.json
+    expectedStatusCodes: [403]
   - name: Problem Model Retrieval
     url: https://kenkoooo.com/atcoder/resources/problem-models.json
+    expectedStatusCodes: [403]
   - name: Contest Information Retrieval
     url: https://atcoder.jp/api/contests/abc001
+    expectedStatusCodes: [403]
 
 
 status-website:
