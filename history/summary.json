@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/atcoder.jp.ico",
     "slug": "user-algorithm-contest-history-retrieval",
     "status": "up",
-    "uptime": "1.74%",
-    "uptimeDay": "1.74%",
-    "uptimeWeek": "1.74%",
-    "uptimeMonth": "1.74%",
-    "uptimeYear": "1.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 74,
     "timeDay": 74,
     "timeWeek": 74,
     "timeMonth": 74,
     "timeYear": 74,
-    "dailyMinutesDown": {
-      "2025-02-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "User Heuristic Contest History Retrieval",
@@ -79,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/atcoder.jp.ico",
     "slug": "user-heuristic-contest-history-retrieval",
     "status": "up",
-    "uptime": "1.40%",
-    "uptimeDay": "1.40%",
-    "uptimeWeek": "1.40%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "1.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6,
     "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 6,
-    "dailyMinutesDown": {
-      "2025-02-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Submission Data Retrieval",
@@ -99,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kenkoooo.com.ico",
     "slug": "submission-data-retrieval",
     "status": "up",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 588,
     "timeDay": 588,
     "timeWeek": 588,
     "timeMonth": 588,
     "timeYear": 588,
-    "dailyMinutesDown": {
-      "2025-02-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Problem List Retrieval",
@@ -119,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kenkoooo.com.ico",
     "slug": "problem-list-retrieval",
     "status": "up",
-    "uptime": "1.06%",
-    "uptimeDay": "1.06%",
-    "uptimeWeek": "1.06%",
-    "uptimeMonth": "1.06%",
-    "uptimeYear": "1.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 169,
     "timeWeek": 169,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {
-      "2025-02-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Problem Model Retrieval",
@@ -139,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kenkoooo.com.ico",
     "slug": "problem-model-retrieval",
     "status": "up",
-    "uptime": "0.79%",
-    "uptimeDay": "0.79%",
-    "uptimeWeek": "0.79%",
-    "uptimeMonth": "0.79%",
-    "uptimeYear": "0.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 169,
     "timeWeek": 169,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {
-      "2025-02-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Contest Information Retrieval",
@@ -159,18 +149,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/atcoder.jp.ico",
     "slug": "contest-information-retrieval",
     "status": "up",
-    "uptime": "0.39%",
-    "uptimeDay": "0.39%",
-    "uptimeWeek": "0.39%",
-    "uptimeMonth": "0.39%",
-    "uptimeYear": "0.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 6,
     "timeDay": 6,
     "timeWeek": 6,
     "timeMonth": 6,
     "timeYear": 6,
-    "dailyMinutesDown": {
-      "2025-02-16": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
