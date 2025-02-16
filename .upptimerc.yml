@@ -4,24 +4,23 @@ repo: my-upptime
 sites:
   - name: AtCoderDatabase
     url: https://atcoder-db.sirogami.com/
-  - name: テスト
-    url: https://example.com
-  - name: ユーザーごとのアルゴリズムレーティング取得
+  - name: User Algorithm Rating Retrieval
     url: https://data.ac-predictor.com/ratings/algorithm.json
-  - name: ユーザーごとのヒューリスティックレーティング取得
+  - name: User Heuristic Rating Retrieval
     url: https://data.ac-predictor.com/ratings/heuristic.json
-  - name: 各ユーザーのアルゴリズムコンテスト履歴取得
+  - name: User Algorithm Contest History Retrieval
     url: https://atcoder.jp/users/sirogamichandayo/history/json
-  - name: 各ユーザーのヒューリスティックコンテスト履歴取得
+  - name: User Heuristic Contest History Retrieval
     url: https://atcoder.jp/users/sirogamichandayo/history/json?contestType=heuristic
-  - name: 提出データ取得
+  - name: Submission Data Retrieval
     url: https://kenkoooo.com/atcoder/atcoder-api/v3/from/9223372036854775807
-  - name: 問題一覧取得
+  - name: Problem List Retrieval
     url: https://kenkoooo.com/atcoder/resources/problems.json
-  - name: 問題モデル取得
+  - name: Problem Model Retrieval
     url: https://kenkoooo.com/atcoder/resources/problem-models.json
-  - name: コンテスト情報取得
+  - name: Contest Information Retrieval
     url: https://atcoder.jp/api/contests/abc001
+
 
 status-website:
   baseUrl: /my-upptime
