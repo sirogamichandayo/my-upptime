@@ -4,6 +4,8 @@ repo: my-upptime
 sites:
   - name: AtCoderDatabase
     url: https://atcoder-db.sirogami.com/
+  - name: テスト
+    url: https://example.com
   - name: ユーザーごとのアルゴリズムレーティング取得
     url: https://data.ac-predictor.com/ratings/algorithm.json
   - name: ユーザーごとのヒューリスティックレーティング取得
