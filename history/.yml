@@ -1,7 +1,7 @@
-url: https://data.ac-predictor.com/ratings/algorithm.json
+url: https://data.ac-predictor.com/ratings/heuristic.json
 status: up
 code: 200
-responseTime: 626
-lastUpdated: 2025-02-16T07:17:56.646Z
+responseTime: 215
+lastUpdated: 2025-02-16T07:17:57.154Z
 startTime: 2025-02-16T07:17:56.012Z
 generator: Upptime <https://github.com/upptime/upptime>
